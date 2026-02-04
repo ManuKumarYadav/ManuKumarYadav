@@ -45,12 +45,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ManuKumarYadav&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuKumarYadav&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManuKumarYadav&theme=onedark&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ManuKumarYadav&theme=onedark&row=1" />
 </p>
 
 ---
